@@ -12,7 +12,7 @@ Inventory mismanagement leads to millions in lost revenue. This project provides
 - **Stock Alerts:** Real-time monitoring of inventory health.
 
 ## 🛠️ Tech Stack
-- Python, Prophet, DuckDB, Streamlit, Plotly.
+- Python,DuckDB, Streamlit, Plotly. 
 
 ## 📬 Contact
 _Md Sehnawaj_ 📧 mdsajiiiiiiid@gmail.com
